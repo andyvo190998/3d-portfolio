@@ -16,6 +16,7 @@
     "@emailjs/browser": "^3.11.0",
     "@react-three/drei": "^9.88.17",
     "@react-three/fiber": "^8.15.11",
+    "@rollup/rollup-linux-x64-gnu": "^4.9.0",
     "@types/three": "^0.158.3",
     "framer-motion": "^10.16.5",
     "maath": "^0.10.4",
